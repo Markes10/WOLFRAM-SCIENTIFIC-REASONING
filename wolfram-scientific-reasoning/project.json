@@ -1,0 +1,8 @@
+{
+  "id": "38",
+  "name": "38-wolfram-scientific-reasoning",
+  "title": "Scientific Autonomous Reasoning Engine",
+  "language": "Wolfram Language",
+  "domain": "Symbolic Mathematics & Chemical Reaction Kinetics",
+  "description": "Symbolic and numerical analysis of Continuous Stirred-Tank Reactor (CSTR) non-linear dynamics, Arrhenius reaction kinetics, Jacobian stability eigenvalues, and thermal runaway bifurcation."
+}
