@@ -1,4 +1,4 @@
-# 38 - Non-Linear Chemical Dynamics & CSTR Reactor Stability (Wolfram)
+# Non-Linear Chemical Dynamics & CSTR Reactor Stability (Wolfram)
 
 ## Executive Overview
 A scientific computing and non-linear dynamic stability analysis engine written in the **Wolfram Language**. It models non-isothermal **Continuous Stirred-Tank Reactors (CSTR)** governed by non-linear Arrhenius kinetics, numerically computes multiple steady-state operating points, and analyzes Jacobian eigenvalue stability to prevent thermal runaway.
